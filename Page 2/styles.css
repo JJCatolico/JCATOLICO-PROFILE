@@ -1,0 +1,129 @@
+.wrapper {
+   max-width: 1280px;
+   margin:0 auto;
+   border: 3px solid black
+
+}
+
+
+.header {
+  max-width: 400px;
+  background-color: #a0fbff;
+  padding: 0px;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #fc34ff;
+  font-family: impact;
+}
+
+/**************************
+ NAVBAR
+**************************/
+.navbar {
+   max-width: 312px;
+   background-color: #fc34ff;
+   margin: auto;
+   border: 2px solid black;
+   font-family: Futura-Condensedmedium;
+   font-size: 25px;
+}
+
+
+ul  {
+	text-align: center;
+	padding-left: 0px;
+}
+
+ul li {
+	display: inline;
+	padding: 0 10px;
+}
+
+a {
+   color: black;
+}
+
+a:hover {
+	color: turquoise;
+
+}
+
+/***************************
+PHOTOS
+****************************/
+
+.photos {
+	max-width: 96%;
+	padding: 21px;
+	text-align: center;
+}
+
+.photo-item {
+	width: 25%;
+	box-sizing: border-box;
+	display: inline-block;
+	margin: 0px;
+	vertical-align: top;
+
+}
+
+.photo-item img {
+	width: 100%;
+}
+
+.photo1 {
+	background-color: black;
+	/*margin: 5px;*/
+	padding: 3px;
+	border: 2px solid black;
+}
+
+.photo2 {
+	background-color: black;
+	/*margin: 5px;*/
+	padding: 3px;
+	border: 2px solid black;
+}
+
+.photo3 {
+	background-color: black;
+	/*margin: 5px;*/
+	padding: 3px;
+	border: 2px solid black;
+
+}
+
+.photo4 {
+	background-color: black;
+	/*margin: 5px;*/
+	padding: 3px;
+	border: 2px solid black;
+
+}
+
+
+.photo5 {
+	background-color: black;
+	/*margin: 5px;*/
+	padding: 3px;
+	border: 2px solid black;
+
+}
+
+.photo6 {
+	background-color: black;
+	/*margin: 5px;*/
+	padding: 3px;
+	border: 2px solid black;
+}
+
+.photos img {
+  margin: 0 auto;
+  display: block;
+  border-radius: 50px;
+}
+
+body {
+	background: url("cold-snow-black-and-white-train.jpeg");
+  background-size: 100%;
+}
